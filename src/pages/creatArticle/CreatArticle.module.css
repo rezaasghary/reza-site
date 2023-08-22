@@ -1,0 +1,17 @@
+.CreateArticle h1 {
+    text-align: right;
+    margin: 20px 0;
+}
+
+.buttonWrapper{
+    text-align: right;
+    margin-top: 10px;
+
+}
+.buttonWrapper button{
+    background-color: aquamarine;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: gray;
+}

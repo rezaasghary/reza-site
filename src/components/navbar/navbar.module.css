@@ -1,0 +1,24 @@
+.header{
+    height: 60px;
+    
+    display: flex;
+    /* justify-content: end; */
+    align-items: center;
+    
+    flex-direction: row-reverse;
+    
+}
+.header ul{
+    padding-left: 20px;
+    display: flex;
+    /* justify-content: end; */
+    flex-direction: row-reverse;
+}
+
+.header ul li{
+    padding-right: 20px;
+    cursor: pointer;
+}
+.wrapper{
+    box-shadow: 0px 3px 5px #ddd;
+}

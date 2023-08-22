@@ -1,0 +1,28 @@
+.aboutPage h2{
+
+text-align: right;
+margin-top: 20px;
+}
+.aboutPage p{
+
+    text-align: right;
+    margin-top: 20px;
+    }
+
+    .aboutPage h3{
+        color: aquamarine;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    .aboutPage img{
+
+        width: 900px;
+        text-align: center;
+        margin-top: 80px;
+        
+
+    }
+    .aboutPage{
+        text-align: center;
+    }
