@@ -45,7 +45,7 @@ function CreateArticle() {
 
   return (
     <>
-      <Navbar tittle="Reza Store" />
+      <Navbar tittle="Reza Articles" />
       <div className={styled.CreateArticle}>
         <div className="container">
           <h1>ساخت مقاله</h1>

@@ -30,7 +30,7 @@ function Home() {
   return (
     
     <div className={styled.homeWrapper}>
-      <Navbar tittle="Reza Store" />
+      <Navbar tittle="Reza Articles" />
       <div className="container">
         <h2>مقالات</h2>
 

@@ -32,7 +32,7 @@ function ArticlePage() {
 
   return (
     <div className={styled.articleWrapper}>
-      <Navbar tittle="Reza store" />
+      <Navbar tittle="Reza Articles" />
 
       <div className="container">
         { isLoading ? (

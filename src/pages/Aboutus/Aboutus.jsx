@@ -5,7 +5,7 @@ import Footer from "../../components/footer/Footer";
 function AboutUs() {
   return (
     <>
-      <Navbar tittle="Reza Store" />
+      <Navbar tittle="Reza Articles" />
 
       <div className="container">
         <div className={styled.aboutPage}>
